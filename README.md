@@ -12,7 +12,7 @@ Welcome to the repository for our Beautiful Webpage Template! This template is d
 
 ## Preview
 
-!Preview Image
+<img src="./img/Screenshot 2024-04-03 210608.png" alt="image webpages">
 
 ## Installation
 
